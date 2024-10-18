@@ -1,4 +1,4 @@
-# bash_aliases
+# bash_aliases.md
 
 ### fav
 ```sh
