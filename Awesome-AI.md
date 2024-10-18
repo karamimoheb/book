@@ -1,4 +1,4 @@
-# Awesome-AI
+# Awesome-AI.md
 
 1. ChatGPT: ChatGPT is a powerful AI bot that engages in human-like dialogue based on a prompt.
 Link: https://openai.com/blog/chatgpt/
